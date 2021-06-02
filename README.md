@@ -1,2 +1,2 @@
-# astronaut
+# Astronaut
 An Astronaut Portfolio Website
